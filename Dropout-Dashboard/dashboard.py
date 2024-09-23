@@ -11,7 +11,7 @@ st.markdown("<style>div.block-container{padding-top:1.7rem;}</style>", unsafe_al
 # Replace with your GitHub repository details
 repo_owner = "HerryTech"  # Replace with your GitHub username
 repo_name = "3Signet-Internship"  # Replace with your repository name
-file_name = "Dropout-Dashboard/cleaned_transformed_dataset.csv"  # Update path
+file_name = "Dropout-Dashboard/school_dataset.csv"  # Update path
 
 # Construct the raw content URL for the CSV file
 url = f"https://raw.githubusercontent.com/{repo_owner}/{repo_name}/main/{file_name}"
