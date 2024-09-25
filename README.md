@@ -9,4 +9,5 @@ Educational institutions face the challenge of identifying students at risk of d
 - Scikit-learn
 - Matplotlib
 - Seaborn
+- Streamlit
 - Jupyter Notebook
