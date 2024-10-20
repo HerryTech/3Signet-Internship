@@ -1,7 +1,7 @@
 import joblib
 import streamlit as st
 
-model = joblib.load("final_model.pkl")
+model = joblib.load("Dropout-Prediction/final_model.pkl")
 
 def main():
     st.title("School Dropout Prediction")
