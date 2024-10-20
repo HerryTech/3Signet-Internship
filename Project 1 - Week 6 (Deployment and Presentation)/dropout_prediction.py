@@ -3,7 +3,7 @@ import streamlit as st
 
 repo_owner = "HerryTech"
 repo_name = "3Signet-Internship" 
-file_name = "final_model.pkl"
+file_name = "Project 1 - Week 6 (Deployment and Presentation)/final_model.pkl"
 
 # Construct the raw content URL for the CSV file
 url = f"https://raw.githubusercontent.com/{repo_owner}/{repo_name}/main/{file_name}"
