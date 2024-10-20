@@ -1,15 +1,7 @@
 import joblib
 import streamlit as st
 
-repo_owner = "HerryTech"  
-repo_name = "3Signet-Internship" 
-file_name = "Dropout-Prediction/final_model.pkl"
-
-# Construct the raw content URL for the CSV file
-url = f"https://raw.githubusercontent.com/{repo_owner}/{repo_name}/main/{file_name}"
-
-# Load the model using joblib
-model = joblib.load(url)
+model = joblib.load("final_model.pkl")
 
 def main():
     st.title("School Dropout Prediction")
