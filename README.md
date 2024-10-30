@@ -17,18 +17,18 @@ Features: Previous Qualification Grade, Age at Enrollment, 1st and 2nd Semester 
 ### Getting Started
 Prerequisites
 To run the project, you will need:
-Python 3.8+
-Required libraries listed in requirements.txt
+- Python 3.8+
+- Required libraries listed in requirements.txt
 ### Models and Approach
 The following machine learning algorithms were tested and tuned to improve prediction accuracy:
-Logistic Regression
-Decision Tree
-Random Forest
-XGBoost
-Support Vector Machine
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- XGBoost
+- Support Vector Machine
 The final model selection was based on performance metrics such as Accuracy, Precision, Recall and F1-Score.
 ### Results
-Best Model: Random Forest with 77% accuracy
+- Best Model: Random Forest with 77% accuracy
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ### Acknowledgements
