@@ -13,7 +13,7 @@ Educational institutions face the challenge of identifying students at risk of d
 - Jupyter Notebook
 ### Dataset
 - Number of records: 4,424 rows and 37 columns with no missing values.
-- Features: Previous Qualification Grade, Age at Enrollment, 1st and 2nd Semester Curriculum Details, debtor status, scholarship holder, etc.
+- Features: Previous qualification grade, age at enrollment, 1st and 2nd semester curriculum details, debtor status, scholarship holder, etc.
 ### Getting Started
 Prerequisites
 To run the project, you will need:
