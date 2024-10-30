@@ -12,13 +12,13 @@ Educational institutions face the challenge of identifying students at risk of d
 - Streamlit
 - Jupyter Notebook
 ### Dataset
-Number of records: 4,424 rows and 37 columns with no missing values.
-Features: Previous Qualification Grade, Age at Enrollment, 1st and 2nd Semester Curriculum Details, debtor status, scholarship holder, etc.
+- Number of records: 4,424 rows and 37 columns with no missing values.
+- Features: Previous Qualification Grade, Age at Enrollment, 1st and 2nd Semester Curriculum Details, debtor status, scholarship holder, etc.
 ### Getting Started
 Prerequisites
 To run the project, you will need:
 - Python 3.8+
-- Required libraries listed in requirements.txt
+- Required libraries listed in `requirements.txt`
 ### Models and Approach
 The following machine learning algorithms were tested and tuned to improve prediction accuracy:
 - Logistic Regression
