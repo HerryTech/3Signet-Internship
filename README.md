@@ -33,4 +33,4 @@ The final model selection was based on performance metrics such as Accuracy, Pre
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ### Acknowledgements
-3Signet for the internship opportunity.
+`3Signet` for the internship opportunity.
