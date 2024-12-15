@@ -6,7 +6,7 @@ import streamlit as st
 
 @st.cache_resource
 def load_model():
-  model=tf.keras.models.load_model('optimized_model.h5')
+  model=tf.keras.models.load_model('Image Deployment/optimized_model.h5')
   return model
 with st.spinner('Model is being loaded..'):
   model=load_model()
