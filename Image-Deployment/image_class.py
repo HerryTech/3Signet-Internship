@@ -7,7 +7,7 @@ import numpy as np
 # Cache the model to avoid reloading it on every run
 @st.cache_resource
 def load_model():
-    model = tf.keras.models.load_model('optimized_model.h5')
+    model = tf.keras.models.load_model('Image-Deployment/optimized_model.h5')
     return model
 
 # Load the model with a spinner
