@@ -16,7 +16,7 @@ with st.spinner('Model is being loaded...'):
 
 # Title of the app
 st.write("""
-         # Image Classification Model
+         # Image Classification App
          """)
 
 # Upload image file
