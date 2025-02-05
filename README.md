@@ -30,4 +30,3 @@ The following machine learning algorithms were tested and tuned to improve predi
 The final model selection was based on performance metrics such as Accuracy, Precision, Recall and F1-Score.
 ### Results
 - Best Model: Random Forest with 77% accuracy
-### License
