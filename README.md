@@ -31,4 +31,4 @@ The final model selection was based on performance metrics such as Accuracy, Pre
 ### Results
 - Best Model: Random Forest with 77% accuracy
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License
