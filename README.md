@@ -1,4 +1,4 @@
-# 3Signet Data Science Internship
+# Internship
 Educational institutions face the challenge of identifying students at risk of dropping out in order to intervene early and improve retention rates. This project aims to develop and optimize predictive models to forecast student dropout rates and recommend effective interventions. By leveraging data science techniques such as machine learning algorithms, feature engineering, and data analysis, this project seeks to identify key factors influencing student success, and provide actionable insights to improve student retention.
 ### Technologies:
 - Python
